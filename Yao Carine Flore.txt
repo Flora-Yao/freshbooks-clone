@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding ="iso-8859-1" standalone="no" ?>
+<!DOCTYPE Yao SYSTEM "Yao.dtd">
+
+<Yao>
+  <nom>Yao</nom>
+  <prenom>Aya Carine Flore</prenom>
+  <lieu de naissance>Dimbokro</lieu de naissance> 
+
+  <famille>
+  <parents>
+    <pères>Yao Koffi</pères>
+    <mères>N'Guessan Aya</mères>
+  </parents>
+
+  <frère>Yao Felix</frère>
+  <soeur>Yao Roseline</soeur>
+  </famille>
+
+</Yao>
